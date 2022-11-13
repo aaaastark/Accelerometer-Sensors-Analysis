@@ -1,5 +1,5 @@
 # Accelerometer Sensors of Object Inclination and Vibration the Time Series Analysis
-## Agenda: Time Series Analysis using different (Stat of Art Models) Machine and Deep Learning.
+## Agenda: Time Series Analysis using different (State of Art Models) Machine and Deep Learning.
  - Recurent Neural Network with CuDNNLSTM Model
  - Convolutional Autoencoder
  - Residual Network (ResNet) and MobileNet Model
@@ -14,4 +14,11 @@
 <p align="center" width="100%">
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201532891-67e8b290-fe3c-4b49-a984-f1ff47b23c03.png">
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201532998-0571aac0-b677-4ca7-ab62-4404b7c65bfc.png">
+</p>
+
+# Visulization of Train and Test Models: Accuracy and Loss
+<p align="center" width="100%">
+    <img width="25%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533204-00c72446-13f0-40de-9421-5c3db0f13e17.png"> 
+    <img width="25%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533253-54e2d0e6-0f2b-4091-919e-caa61a79b093.png"> 
+    
 </p>
