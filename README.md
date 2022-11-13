@@ -4,6 +4,23 @@
  - Convolutional Autoencoder
  - Residual Network (ResNet) and MobileNet Model
 
+#### Workflow that is used in this Project
+- Data Processing/Transformation
+- Data Normalization
+- Image Transformation: Markov Transition Field
+- State of Art Models (Machine and Deep Learning)
+- Visulization of Train and Test Models: Accuracy and Loss 
+- Classification Report, Accuracy, and Loss
+
+#### APIs that are used in this Project
+- tensorflow
+- sklearn
+- keras
+- matplotlib
+- numpy
+- pandas
+- pyts (Python Time Series Classification)
+
 # Time Series Dataset: Accelerometer Sensors
 <p align="center" width="100%">
     <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201532793-b86a0048-8997-460d-aea4-d35472cf11fc.png">
