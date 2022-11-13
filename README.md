@@ -17,7 +17,7 @@
 </p>
 
 # Visulization of Train and Test Models: Accuracy and Loss
-<p align="align" width="100%">
+<p align="center" width="100%">
     <img width="20%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533204-00c72446-13f0-40de-9421-5c3db0f13e17.png"> 
     <img width="20%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533342-bf4121e1-1012-43ec-9b97-af2d09b6d02d.png"> 
     <img width="20%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533253-54e2d0e6-0f2b-4091-919e-caa61a79b093.png">
