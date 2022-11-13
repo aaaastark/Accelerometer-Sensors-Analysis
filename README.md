@@ -23,3 +23,9 @@
     <img width="22%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533253-54e2d0e6-0f2b-4091-919e-caa61a79b093.png">
     <img width="22%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533399-36d97c39-1fc0-45cb-812d-89854b98eb7f.png">
 </p>
+
+# Classification Report
+<p align="center" width="100%">
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533686-5b04affe-f675-4df2-b8de-6afd7a6f5fe1.png">
+    <img width="100%" hight="100%" src="https://user-images.githubusercontent.com/74346775/201533697-c25ba7b9-f1e4-4e5d-aff7-a7db89ebce85.png">
+</p>
