@@ -1,4 +1,4 @@
-# Accelerometer Sensors of Object Inclination and Vibration the Time Series Analysis
+# Time Series Analysis: Accelerometer Sensors of Object Inclination and Vibration
 ## Agenda: Time Series Analysis using different (State of Art Models) Machine and Deep Learning.
  - Recurent Neural Network with CuDNNLSTM Model
  - Convolutional Autoencoder
